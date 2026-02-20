@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Strengthening my programming fundamentals through academic projects and consistent coding practice<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly projects, student builds, and practical mini applications<br><br>🤝 I’m looking for help with:<br>Data Structures, Problem Solving, and improving code quality<br><br>🌱 I’m currently learning:<br>C Programming, SQL, and core Computer Science concepts<br><br>💬 Ask me about:<br>C language, GitHub basics, and productivity for students<br><br>⚡ Fun fact:<br>I enjoy turning assignments into portfolio-worthy projects
+🔭 I’m currently working on:<br>Strengthening my programming fundamentals through academic projects and consistent coding practice<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly projects, student builds, and practical mini applications<br><br>🤝 I’m looking for help with:<br>Data Structures, Problem Solving, and improving code quality<br><br>🌱 I’m currently learning:<br>C Programming, SQL, and core Computer Science concepts<br><br>💬 Ask me about:<br>C language, GitHub basics, and productivity for students<br><br>⚡ Fun fact:<br>I enjoy turning assignments into portfolio-worthy projects.
 
 
 ## 🌐 Socials:
