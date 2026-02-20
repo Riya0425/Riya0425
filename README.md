@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riya0425&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=Riya0425&theme=dark" />
+  
 </p>
 
 
