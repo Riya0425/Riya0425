@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Riya0425&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya0425&layout=compact&theme=dark)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riya0425&show_icons=true&theme=dark" />
   <img src="https://streak-stats.demolab.com?user=Riya0425&theme=dark" />
